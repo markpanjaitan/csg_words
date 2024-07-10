@@ -72,7 +72,7 @@ To run the application using the generated JAR file, use the following command:
 java -jar target/csg_words-0.0.1-SNAPSHOT.jar
 ```
 
-The application will start on `http://localhost:8181`.
+The application will start on `http://localhost:8080`.
 
 
 ## Accessing the API Documentation
@@ -85,7 +85,7 @@ Once the application is running, you can access the Swagger UI for API documenta
 
 Here is an example of how to use the API endpoint:
 
-1. Open your browser and navigate to `http://localhost:8181/swagger-ui.html`.
+1. Open your browser and navigate to `http://localhost:8080/swagger-ui.html`.
 2. Find the API endpoint (/api/words-counter).
 3. Click on the endpoint to expand it and see the details.
 4. Use the provided UI to choose/upload a TXT file, and view the response.
