@@ -89,4 +89,5 @@ Here is an example of how to use the API endpoint:
 2. Find the API endpoint (/api/words-counter).
 3. Click on the endpoint to expand it and see the details.
 4. Use the provided UI to choose/upload a TXT file, and view the response.
+5. An example file (docs/text_example.txt) is provided for testing purposes.
 
